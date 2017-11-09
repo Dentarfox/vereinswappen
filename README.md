@@ -1,2 +1,10 @@
-# vereinswappen
-Läd automatisch alle Vereinswappen herunter, welche vorher in einer CSV definiert wurden
+# Vereinswappen Scrapper
+Ein kleines Python Tool um automatisiert Vereinswappen von http://www.vereinswappen.de anhand des Vereinsnamen herunterzuladen. 
+
+# Installation
+```
+pip3 install requests lxml clint emoji urllib
+```
+
+# Vorraussetzungen
+Python 3
